@@ -1,5 +1,5 @@
 .fon{
-	background:url(/image/body/Ellipse\ 1\ copy.png) 50%/cover no-repeat;
+	background: url(../image/body/12.png) 50%/cover no-repeat;
 	background-attachment: fixed;
 }
 
@@ -73,7 +73,7 @@ img{
 
 .content__the li{
 	list-style: none;
-	background: url(/image/body/sec.png) left center no-repeat;
+	background: url(../image/body/sec.png) left center no-repeat;
 	margin: auto;
 	padding: 0 0 0 30px;
 }
