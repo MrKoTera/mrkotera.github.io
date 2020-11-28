@@ -62,23 +62,13 @@ img{
 	margin-bottom: 60px;
 }
 
-.bitton{
-	background-color:#e6a703;
-	height: 30px;
-	width: 120px;
-
-	font-family: Arial, Helvetica, sans-serif;
-	color: #eeeeee;
-	margin: auto;
-	border-radius: 14px;
-}
 
 .content__the{
 	width: 640px;
 	text-align: left;
 	margin: auto;
 	font-size: 14px;
-	padding-top: 60px;
+	padding-top: 50px;
 }
 
 .content__the li{
@@ -90,5 +80,49 @@ img{
 
 .one, .two, .three, .four{
 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	padding: 0;
+}
+
+ul{
+	line-height: 30px;
+}
+
+.one{
+	color: #273d46;
+}
+
+.two{
+	color: #80b7b3;
+}
+
+.three{
+	color: #273d46;
+}
+
+.four{
+	color: #bbbebf;
+	text-decoration: line-through;
+}
+
+.bitton{
+	background-color:#80b7b3;
+	height: 30px;
+	width: 120px;
+	user-select: none;
+
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 20px 0 30px 70px;
+	border-radius: 14px;
+	text-decoration: none;
+	padding: 8.5px 8.5px;
+
+	box-shadow: 1px solid #000000
+}
+
+.bitton a{
+	color: #fff;
+	text-transform: uppercase;
 	font-size: 12px;
+	padding-right: 15px;
 }
