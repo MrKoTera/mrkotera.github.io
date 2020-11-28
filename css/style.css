@@ -74,6 +74,21 @@ img{
 }
 
 .content__the{
+	width: 640px;
 	text-align: left;
 	margin: auto;
+	font-size: 14px;
+	padding-top: 60px;
+}
+
+.content__the li{
+	list-style: none;
+	background: url(/image/body/sec.png) left center no-repeat;
+	margin: auto;
+	padding: 0 0 0 30px;
+}
+
+.one, .two, .three, .four{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
 }
